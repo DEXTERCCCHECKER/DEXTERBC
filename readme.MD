@@ -1,5 +1,5 @@
 
-# SDMN CC Checker Bot [Heroku]
+# DEXTER Checker Bot [Heroku]
 
 A Telegram CC Checker Bot with hella lotta features.
 
